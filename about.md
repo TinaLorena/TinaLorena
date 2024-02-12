@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-rosado.infodesign@gmail.com(mailto:rosado.infodesign@gmail.com)
+[rosado.infodesign@gmail.com](mailto:rosado.infodesign@gmail.com)
